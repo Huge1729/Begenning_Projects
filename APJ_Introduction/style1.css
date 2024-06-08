@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(103, 214, 237);
+
+}
+#heading {
+  font-size: medium;
+  font-family: "Times New Roman", Times, serif;
+  color: blue;
+}
+
+/* .parent{
+    width: 700px; 
+    float:left;
+     height:710px; 
+     background:rgb(0, 255, 170);
+     margin:10px;
+     border: 15px rgb(103, 21, 234);
+   
+}
+.child_1{
+    width:800px; 
+    float:left;
+     height:710px; 
+     background:rgb(104, 189, 229);
+     margin-top:-716px;
+     margin-left:700px;
+     border: 15px rgb(22, 234, 178);
+} */
+/* #img {
+  
+  border: 4px solid #1d11c2;
+  border-radius: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+  } */
